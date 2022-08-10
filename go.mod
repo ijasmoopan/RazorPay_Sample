@@ -1,4 +1,4 @@
-module razorpay/sample
+module github.com/ijasmoopan/razorpay-sample
 
 go 1.18
 
